@@ -1,0 +1,9 @@
+{
+  "name": "VAST-MINI-Challenge-1",
+  "version": "1.0.0",
+  "description": "In a prescient move, the city of St. Himark released a new damage reporting mobile application shortly before the earthquake. This app allows citizens to provide more timely information to the city to help them understand damage and prioritize their response. In this mini-challenge, use app responses in conjunction with shake maps of the earthquake strength to identify areas of concern and advise emergency planners.",
+  "main": "server.js",
+  "repository": "https://github.com/joshuaj1397/VAST-MINI-Challenge-1",
+  "author": "Joshua Johnson <joshuaj1397@gmail.com>",
+  "license": "MIT"
+}
